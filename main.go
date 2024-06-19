@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	storespb "github.com/bobadojo/go/stores/v1/storespb"
+	storespb "github.com/bobadojo/go/pkg/stores/v1/storespb"
 )
 
 func main() {

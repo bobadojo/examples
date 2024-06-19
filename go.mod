@@ -2,7 +2,7 @@ module github.com/bobadojo/examples
 
 go 1.22.3
 
-require github.com/bobadojo/go v0.0.0-20240619181327-c129bfcb83b2
+require github.com/bobadojo/go v0.0.0-20240619221318-a9b656cec2a1
 
 require (
 	golang.org/x/net v0.26.0 // indirect

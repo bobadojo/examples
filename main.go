@@ -9,5 +9,5 @@ import (
 func main() {
 	s := storespb.Store{Description: "Hello"}
 	fmt.Printf("%+v\n", s)
-	fmt.Printf("%s\n", storespb.StoreLocator_GetStore_FullMethodName)
+	fmt.Printf("%s\n", storespb.Stores_GetStore_FullMethodName)
 }
